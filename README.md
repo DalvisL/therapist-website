@@ -1,2 +1,3 @@
-# therapist-website
-Serene and unique website for a therapist practice built with React + Tailwind CSS
+# Therapist Website
+
+A serene and professional website for therapists built with React + Tailwind CSS.
